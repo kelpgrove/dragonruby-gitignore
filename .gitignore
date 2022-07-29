@@ -1,0 +1,7 @@
+.DS_Store
+tmp/
+logs/
+exceptions/
+builds/
+console_history.txt
+.yardoc/
