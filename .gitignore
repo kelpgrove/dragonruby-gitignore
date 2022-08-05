@@ -5,3 +5,4 @@ exceptions/
 builds/
 console_history.txt
 .yardoc/
+RECOVER_*
